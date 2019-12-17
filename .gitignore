@@ -1,0 +1,7 @@
+
+g
+	*.class	
+	*.obj
+	!index.php
+	[abc].php 
+
